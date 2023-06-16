@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[BeforeSuite]]>
+    </line>
+    <line>
+      <![CDATA[BeforeTest]]>
+    </line>
+    <line>
+      <![CDATA[BeforeClass]]>
+    </line>
+    <line>
+      <![CDATA[BeforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[Sravya]]>
+    </line>
+    <line>
+      <![CDATA[BeforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[AfterClass]]>
+    </line>
+    <line>
+      <![CDATA[AfterTest]]>
+    </line>
+    <line>
+      <![CDATA[AfterSuite]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-06-16T07:49:18 IST" name="Default suite" finished-at="2023-06-16T07:49:18 IST" duration-ms="52">
+    <groups>
+    </groups>
+    <test started-at="2023-06-16T07:49:18 IST" name="Default test" finished-at="2023-06-16T07:49:18 IST" duration-ms="52">
+      <class name="Practice.AnnotationsTest">
+        <test-method is-config="true" signature="bsconfigurationTest()[pri:0, instance:Practice.AnnotationsTest@4b013c76]" started-at="2023-06-16T07:49:18 IST" name="bsconfigurationTest" finished-at="2023-06-16T07:49:18 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[BeforeSuite]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bsconfigurationTest -->
+        <test-method is-config="true" signature="btconfigurationTest()[pri:0, instance:Practice.AnnotationsTest@4b013c76]" started-at="2023-06-16T07:49:18 IST" name="btconfigurationTest" finished-at="2023-06-16T07:49:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[BeforeTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- btconfigurationTest -->
+        <test-method is-config="true" signature="bcconfigurationTest()[pri:0, instance:Practice.AnnotationsTest@4b013c76]" started-at="2023-06-16T07:49:18 IST" name="bcconfigurationTest" finished-at="2023-06-16T07:49:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[BeforeClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bcconfigurationTest -->
+        <test-method signature="NameTest()[pri:0, instance:Practice.AnnotationsTest@4b013c76]" started-at="2023-06-16T07:49:18 IST" name="NameTest" finished-at="2023-06-16T07:49:18 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sravya]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- NameTest -->
+        <test-method is-config="true" signature="bmconfigurationTest()[pri:0, instance:Practice.AnnotationsTest@4b013c76]" started-at="2023-06-16T07:49:18 IST" name="bmconfigurationTest" finished-at="2023-06-16T07:49:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[BeforeMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bmconfigurationTest -->
+        <test-method is-config="true" signature="amconfigurationTest()[pri:0, instance:Practice.AnnotationsTest@4b013c76]" started-at="2023-06-16T07:49:18 IST" name="amconfigurationTest" finished-at="2023-06-16T07:49:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[BeforeMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- amconfigurationTest -->
+        <test-method is-config="true" signature="acconfigurationTest()[pri:0, instance:Practice.AnnotationsTest@4b013c76]" started-at="2023-06-16T07:49:18 IST" name="acconfigurationTest" finished-at="2023-06-16T07:49:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[AfterClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- acconfigurationTest -->
+        <test-method is-config="true" signature="atconfigurationTest()[pri:0, instance:Practice.AnnotationsTest@4b013c76]" started-at="2023-06-16T07:49:18 IST" name="atconfigurationTest" finished-at="2023-06-16T07:49:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[AfterTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- atconfigurationTest -->
+        <test-method is-config="true" signature="asconfigurationTest()[pri:0, instance:Practice.AnnotationsTest@4b013c76]" started-at="2023-06-16T07:49:18 IST" name="asconfigurationTest" finished-at="2023-06-16T07:49:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[AfterSuite]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- asconfigurationTest -->
+      </class> <!-- Practice.AnnotationsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
